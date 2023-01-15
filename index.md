@@ -2,14 +2,17 @@ This tutorial is written for Windows users,
 If you are using a different operation system, I can't promise this will work for you.
 
 
-1. Installing VScode:
+1 Installing VScode:
+
 
 I already have VScode on my computer, so I am going to skip this step.
 After successfully installing VScode, you window should look like this: (It doesn't have to be exact same)
 
 <img width="1280" alt="屏幕截图 2023-01-11 113515" src="https://user-images.githubusercontent.com/122486933/212523879-5a0194b5-6d81-461b-ada9-3b8b3f6fdaa8.png">
 
-2. Remotely Connecting:
+
+2 Remotely Connecting:
+
 
 If you are using Windows like me, you need to download Git first. Use this link to download: https://gitforwindows.org/
 
@@ -32,7 +35,9 @@ Now you are all set to try some commands.
 
 Reminder: if you stay inactive for a long time, you will need to login again.
 
-3. Trying some Command:
+
+3 Trying some Command:
+
 
 You can type in some commands you learned in the class in the terminal to see what will happen.
 For example: ls, cd, pwd.
