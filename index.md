@@ -25,7 +25,7 @@ Now your terminal window should be something like this:
 
 Before we move forward, make sure to reset your password for this course account using this [link](https://sdacs.ucsd.edu/~icc/index.php).
 
-Next, type **ssh cs15lwi23zz@ieng6.ucsd.edu** in your terminal and replace the "zz" with the letters in your course account.
+Next, type **ssh cs15lwi23zz@ieng6.ucsd.edu** in your terminal and replace the "**zz**" with the letters in your course account.
 Type enter and you will see a warning. Type yes and enter to continue.
 Type the password you just resetted and you should be connected to the server.
 Your terminal should look like this:
